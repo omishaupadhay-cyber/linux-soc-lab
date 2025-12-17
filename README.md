@@ -66,8 +66,9 @@ Firewall Enabled (UFW)
 ![UFW Status](IMG_6125.jpeg)
 
 Authentication Log Review
-![Auth Log](IMG_6128.jpeg)
+![Failed Login Detection](IMG_CA2D0160-88AB-4EB6-B194-2BAA3CEB6E87.jpeg)
+
 
 Failed Login Attempt Detection
-![Failed Login Detection](IMG_CA2D0160-88AB-4EB6-B194-2BAA3CEB6E87.jpeg)
+![Auth Log](IMG_6128.jpeg) 
 
